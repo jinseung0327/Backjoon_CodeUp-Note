@@ -1,2 +1,2 @@
-# BaekJoon_Note
-나의 백준노트
+# BaekJoon_CodeUp-Note
+나의 백준 &  코드업 노트
